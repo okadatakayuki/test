@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Batch": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\okada\\Desktop\\資料\\UserMasterData.xlsx"
+    }
+  }
+}
